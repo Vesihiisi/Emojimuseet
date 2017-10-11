@@ -859,7 +859,10 @@
     "🐴": [
         "https://digitaltmuseum.se/011014490320/joel-johansson-salvik-fiskebackskil"
     ],
-    "🐵": [],
+    "🐵": [
+        "https://digitaltmuseum.se/011025185597/apa",
+        "https://digitaltmuseum.se/011025186298/forebild-for-teckning-apa"
+    ],
     "🐶": [
         "https://digitaltmuseum.se/021016322326/hund"
     ],
@@ -876,9 +879,14 @@
     ],
     "🐻": [],
     "🐼": [],
-    "🐽": [],
-    "🐾": [],
-    "🐿": [],
+    "🐽": [
+        "https://digitaltmuseum.se/011025191559/gris",
+        "https://digitaltmuseum.se/011025186384/forebild-for-teckning-gris"
+    ],
+    "🐿": [
+        "https://digitaltmuseum.se/021046502715/vit-ekorre-i-landskap",
+        "https://digitaltmuseum.se/011025186309/forebild-for-teckning-ekorre"
+    ],
     "👀": [],
     "👁": [],
     "👁‍🗨": [],
@@ -897,7 +905,9 @@
     "👎": [],
     "👏": [],
     "👐": [],
-    "👑": [],
+    "👑": [
+        "http://emuseumplus.lsh.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=36503&viewType=detailView"
+    ],
     "👒": [],
     "👓": [],
     "👔": [],
