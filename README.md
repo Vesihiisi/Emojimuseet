@@ -1,12 +1,10 @@
-# NYPL Emoji Bot
+# Emojimuseet
 
-<a href='https://travis-ci.org/lolibrarian/NYPL-Emoji-Bot'>
-  <img src='https://api.travis-ci.org/lolibrarian/NYPL-Emoji-Bot.png' alt='Travis CI build status' />
-</a>
+The source code for [Emojimuseet](https://twitter.com/Emojimuseet), a local Swedish version of [NYPL Emoji Bot](https://github.com/lolibrarian/NYPL-Emoji-Bot)
 
-The source code for the [NYPL Emoji Bot](https://twitter.com/NYPLEmoji)
+## To run your own copy
 
-## Configuration
+### Configuration
 
 1. Install dependencies:
 
@@ -22,27 +20,27 @@ The source code for the [NYPL Emoji Bot](https://twitter.com/NYPLEmoji)
 
 2. [Get credentials for your bot](https://dev.twitter.com/) and complete the `.env`
 
-## Usage
+### Usage
 
-### To post a status
+#### To post a status
 
 ```shell
 npm run status
 ```
 
-### To reply to replies
+#### To reply to replies
 
 ```shell
 npm run reply
 ```
 
-### Testing
+#### Testing
 
 ```shell
 npm test
 ```
 
-## Contributing
+### Contributing
 
 Emoji additions, bug reports, fixes, and new features are welcomed. If you'd like to contribute code, please:
 
