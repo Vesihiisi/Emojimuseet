@@ -818,8 +818,12 @@
     "🐕": [],
     "🐖": [],
     "🐗": [],
-    "🐘": [],
-    "🐙": [],
+    "🐘": [
+        "http://emuseumplus.lsh.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=39168&viewType=detailView"
+    ],
+    "🐙": [
+        "http://collections.smvk.se/carlotta-vkm/web/object/57097"
+    ],
     "🐚": [],
     "🐛": [],
     "🐜": [],
@@ -836,22 +840,33 @@
     "🐧": [],
     "🐨": [],
     "🐩": [],
-    "🐪": [],
+    "🐪": [
+        "https://digitaltmuseum.se/021046500574/kamel-med-forare"
+    ],
     "🐫": [
         "https://digitaltmuseum.se/021046500574/kamel-med-forare"
     ],
     "🐬": [],
     "🐭": [],
-    "🐮": [],
+    "🐮": [
+        "https://digitaltmuseum.se/021017165971/1m16-a145228-914-1"
+    ],
     "🐯": [],
     "🐰": [],
     "🐱": [],
     "🐲": [],
     "🐳": [],
-    "🐴": [],
+    "🐴": [
+        "https://digitaltmuseum.se/011014490320/joel-johansson-salvik-fiskebackskil"
+    ],
     "🐵": [],
-    "🐶": [],
-    "🐷": [],
+    "🐶": [
+        "https://digitaltmuseum.se/021016322326/hund"
+    ],
+    "🐷": [
+        "https://digitaltmuseum.se/011025191559/gris",
+        "https://digitaltmuseum.se/011025186384/forebild-for-teckning-gris"
+    ],
     "🐸": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=131252&viewType=detailView"
     ],
