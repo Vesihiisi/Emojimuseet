@@ -1,6 +1,10 @@
 {
-    "🏳️‍🌈": [],
-    "🤹": [],
+    "🏳️‍🌈": [
+        "https://digitaltmuseum.se/011023832957/rockslagsmarke"
+    ],
+    "🤹": [
+        "https://digitaltmuseum.se/021016341989/ljusbild-for-laterna-magica-med-motiv-av-liten-man-i-hatt-som-jonglerar"
+    ],
     "🥜": [],
     "🤾": [],
     "#️⃣": [],
@@ -575,7 +579,9 @@
     "🍏": [],
     "🍐": [],
     "🍑": [],
-    "🍒": [],
+    "🍒": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=20384&viewType=detailView"
+    ],
     "🍓": [],
     "🍔": [],
     "🍕": [],
@@ -616,16 +622,24 @@
     "🍷": [],
     "🍸": [],
     "🍹": [],
-    "🍺": [],
-    "🥂": [],
+    "🍺": [
+        "https://digitaltmuseum.se/011023078699/olstop"
+    ],
+    "🥂": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=98834&viewType=detailView"
+    ],
     "🍻": [],
     "🍼": [],
     "🍽": [],
-    "🍾": [],
+    "🍾": [
+        x"https://digitaltmuseum.se/021016739296/herr-ivar-aberg-fotograferad-pa-hotell-baltic-med-froken-ann-slott-25-september"
+    ],
     "🍿": [],
     "🎀": [],
     "🎁": [],
-    "🎂": [],
+    "🎂": [
+        "http://emuseumplus.lsh.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=71255&viewType=detailView"
+    ],
     "🎃": [],
     "🎄": [],
     "🎅": [],
@@ -753,7 +767,9 @@
     "🐋": [],
     "🐌": [],
     "🐍": [],
-    "🐎": [],
+    "🐎": [
+        "http://emuseumplus.lsh.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=21990&viewType=detailView"
+    ],
     "🐏": [],
     "🐐": [],
     "🐑": [],
@@ -795,9 +811,13 @@
     "🐵": [],
     "🐶": [],
     "🐷": [],
-    "🐸": [],
+    "🐸": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=131252&viewType=detailView"
+    ],
     "🐹": [],
-    "🐺": [],
+    "🐺": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=113173&viewType=detailView"
+    ],
     "🐻": [],
     "🐼": [],
     "🐽": [],
@@ -844,7 +864,9 @@
     "👥": [],
     "👦": [],
     "👧": [],
-    "👨": [],
+    "👨": [
+        "https://digitaltmuseum.se/011013847353/gustav-iii-dodsmask-nordiska-museets-foremal-inv-nr-47752-pa-sista-bilden"
+    ],
     "👨‍❤️‍👨": [],
     "👨‍❤️‍💋‍👨": [],
     "👨‍👨‍👦": [],
