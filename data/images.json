@@ -697,8 +697,12 @@
         "http://emuseumplus.lsh.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=71255&viewType=detailView"
     ],
     "🎃": [],
-    "🎄": [],
-    "🎅": [],
+    "🎄": [
+        "https://digitaltmuseum.se/021016165004/rumsinterior-familjegrupp-7-personer-j-r-hofstedt"
+    ],
+    "🎅": [
+        "https://digitaltmuseum.se/021016198381/julbildssidan-24-december-1954"
+    ],
     "🎆": [],
     "🎇": [],
     "🎈": [],
@@ -713,7 +717,9 @@
     "🎑": [],
     "🎒": [],
     "🎓": [],
-    "🎖": [],
+    "🎖": [
+        "https://digitaltmuseum.se/021016880113/otto-malmborg-juni-1917"
+    ],
     "🎗": [],
     "🎙": [],
     "🎚": [],
@@ -730,7 +736,9 @@
     "🎧": [],
     "🎨": [],
     "🎩": [],
-    "🎪": [],
+    "🎪": [
+        "https://digitaltmuseum.se/021016760044/furuviksparken-invigdes-1936-cirkus-folkdanslaget-furuviks-ungdomslag-och"
+    ],
     "🎫": [],
     "🎬": [],
     "🎭": [],
@@ -980,7 +988,9 @@
     "👱": [],
     "👲": [],
     "👳": [],
-    "👴": [],
+    "👴": [
+        "https://digitaltmuseum.se/021016880113/otto-malmborg-juni-1917"
+    ],
     "👵": [
         "https://digitaltmuseum.se/011013849545/eldslagning-bullermor-stina-persdotter-slar-gnistor-med-ett-ovalformigt"
     ],
