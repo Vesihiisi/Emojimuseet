@@ -2,6 +2,8 @@
 
 The source code for [Emojimuseet](https://twitter.com/Emojimuseet), a local Swedish version of [NYPL Emoji Bot](https://github.com/lolibrarian/NYPL-Emoji-Bot)
 
+The emojis reside in [images.json](https://github.com/Ambrosiani/Emojimuseet/blob/master/data/images.json). Feel free to contribute!
+
 ## To run your own copy
 
 ### Configuration
