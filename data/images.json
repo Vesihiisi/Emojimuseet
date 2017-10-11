@@ -146,10 +146,23 @@
     "♑️": [],
     "♒️": [],
     "♓️": [],
-    "♠️": [],
-    "♣️": [],
-    "♥️": [],
-    "♦️": [],
+    "♠️": [
+        "https://digitaltmuseum.se/011024262738/kortlek",
+        "https://digitaltmuseum.se/021026850168/kortlek"
+    ],
+    "♣️": [
+        "https://digitaltmuseum.se/011024262738/kortlek",
+        "https://digitaltmuseum.se/021026850168/kortlek"
+    ],
+    "♥️": [
+        "https://digitaltmuseum.se/011024262738/kortlek",
+        "https://digitaltmuseum.se/021026850168/kortlek",
+        "https://digitaltmuseum.se/011024606000/spel"
+    ],
+    "♦️": [
+        "https://digitaltmuseum.se/011024262738/kortlek",
+        "https://digitaltmuseum.se/021026850168/kortlek"
+    ],
     "♨️": [],
     "♻️": [],
     "♿️": [],
