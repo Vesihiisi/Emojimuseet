@@ -61,7 +61,9 @@
     "↩️": [],
     "↪️": [],
     "⌚️": [],
-    "⌛️": [],
+    "⌛️": [
+        "https://digitaltmuseum.se/021026254502/timglas"
+    ],
     "⌨": [],
     "⏩": [],
     "⏪": [],
@@ -71,7 +73,9 @@
     "⏮": [],
     "⏯": [],
     "⏰": [],
-    "⏱": [],
+    "⏱": [
+        "https://digitaltmuseum.se/011014313552/enligt-notering-kvartford-och-mattaffar-i-nya-fastigheten-kilbacksgatan"
+    ],
     "⏲": [],
     "⏳": [],
     "⏸": [],
@@ -86,12 +90,16 @@
     "◼️": [],
     "◽️": [],
     "◾️": [],
-    "☀️": [],
+    "☀️": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=115044&viewType=detailView"
+    ],
     "☁️": [],
     "☃": [],
     "☄": [],
     "📡":[],
-    "☎️": [],
+    "☎️": [
+        "https://digitaltmuseum.se/021026360642/telefon"
+    ],
     "☑️": [],
     "☔️": [],
     "☕️": [],
