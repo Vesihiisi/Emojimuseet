@@ -726,8 +726,12 @@
     "🎛": [],
     "🎞": [],
     "🎟": [],
-    "🎠": [],
-    "🎡": [],
+    "🎠": [
+        "https://digitaltmuseum.se/011014440369/karusell-pa-saltkallans-marknad-oktober-1920"
+    ],
+    "🎡": [
+        "https://digitaltmuseum.se/011014982597/stockholmsutstallningen-1930-pariserhjul-vy"
+    ],
     "🎢": [],
     "🎣": [],
     "🎤": [],
@@ -1036,26 +1040,52 @@
     "💉": [],
     "💊": [],
     "💋": [],
-    "💌": [],
+    "💌": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137811&viewType=detailView"
+    ],
     "💍": [],
     "💎": [],
     "💏": [],
     "💐": [],
     "💑": [],
     "💒": [],
-    "💓": [],
+    "💓": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137811&viewType=detailView"
+    ],
     "💔": [],
-    "💕": [],
-    "💖": [],
-    "💗": [],
-    "💘": [],
-    "💙": [],
-    "💚": [],
-    "💛": [],
-    "💜": [],
-    "💝": [],
-    "💞": [],
-    "💟": [],
+    "💕": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137811&viewType=detailView"
+    ],
+    "💖": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137811&viewType=detailView"
+    ],
+    "💗": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137811&viewType=detailView"
+    ],
+    "💘": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137811&viewType=detailView"
+    ],
+    "💙": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137811&viewType=detailView"
+    ],
+    "💚": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137811&viewType=detailView"
+    ],
+    "💛": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137811&viewType=detailView"
+    ],
+    "💜": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137811&viewType=detailView"
+    ],
+    "💝": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137811&viewType=detailView"
+    ],
+    "💞": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137811&viewType=detailView"
+    ],
+    "💟": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137811&viewType=detailView"
+    ],
      "❣": [],
     "❤️": [],
     "💠": [],
