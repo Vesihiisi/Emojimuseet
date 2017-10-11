@@ -10,7 +10,7 @@ class ImageIncomplete {
   }
 
   toString() {
-    return '¯\\_(ツ)_/¯ Try searching digitalcollections.nypl.org for that!';
+    return '🤔😞😬 Tyvärr! Kanske hittar du något på digitaltmuseum.se?';
   }
 }
 
