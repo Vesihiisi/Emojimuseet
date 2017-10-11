@@ -10,7 +10,7 @@ class ImageIncomplete {
   }
 
   toString() {
-    return '🤔😞😬 Tyvärr! Kanske hittar du något på digitaltmuseum.se?';
+    return 'Tyvärr! 🤔😞😬 Kanske hittar du något på https://digitaltmuseum.se?';
   }
 }
 
