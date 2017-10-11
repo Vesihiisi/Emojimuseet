@@ -587,7 +587,9 @@
     "🌪": [],
     "🌫": [],
     "🌬": [],
-    "🌭": [],
+    "🌭": [
+        "https://digitaltmuseum.se/021015882748/julruschen-pa-postkontoret-jakobsberg-1969-marie-louise-ericsson-och-christina"
+    ],
     "🌮": [],
     "🌯": [],
     "🌰": [],
@@ -601,7 +603,9 @@
     "🌸": [],
     "🌹": [],
     "🌺": [],
-    "🌻": [],
+    "🌻": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112947&viewType=detailView"
+    ],
     "🌼": [],
     "🌽": [],
     "🌾": [],
@@ -642,7 +646,9 @@
     "🍜": [],
     "🍝": [],
     "🍞": [],
-    "🍟": [],
+    "🍟": [
+        "https://digitaltmuseum.se/021015882748/julruschen-pa-postkontoret-jakobsberg-1969-marie-louise-ericsson-och-christina"
+    ],
     "🍠": [],
     "🍡": [],
     "🍢": [],
@@ -676,7 +682,8 @@
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=98834&viewType=detailView"
     ],
     "🍻": [
-        "https://digitaltmuseum.se/021046507816/interior-fran-en-olstuga"
+        "https://digitaltmuseum.se/021046507816/interior-fran-en-olstuga",
+        "https://digitaltmuseum.se/021016875971/vanersborg-basar-i-socitetssalongen-olstuga"
     ],
     "🍼": [],
     "🍽": [],
@@ -974,7 +981,9 @@
     "👲": [],
     "👳": [],
     "👴": [],
-    "👵": [],
+    "👵": [
+        "https://digitaltmuseum.se/011013849545/eldslagning-bullermor-stina-persdotter-slar-gnistor-med-ett-ovalformigt"
+    ],
     "👶": [],
     "👷": [],
     "👸": [],
@@ -1025,7 +1034,9 @@
     "💢": [],
     "💣": [],
     "💤": [],
-    "💥": [],
+    "💥": [
+        "https://digitaltmuseum.se/011013849545/eldslagning-bullermor-stina-persdotter-slar-gnistor-med-ett-ovalformigt"
+    ],
     "💦": [],
     "💧": [],
     "💨": [],
@@ -1357,12 +1368,17 @@
     "🚙": [],
     "🚚": [],
     "🚛": [],
-    "🚜": [],
+    "🚜": [
+        "https://digitaltmuseum.se/021016339170/motorplogstavling-vid-hillerod-1920-moline-universal-traktor-jarnhast-forsaljes"
+    ],
     "🚝": [],
     "🚞": [],
     "🚟": [],
     "🚠": [],
-    "🚡": [],
+    "🚡": [
+        "https://digitaltmuseum.se/021017103836/linbanans-lastningsstation-med-spel-for-vagnarnas-nedfirning-i-pramarnas",
+        "https://digitaltmuseum.se/021017103838/linbanebild-med-malmvagn-fran-vastanfors-bruk"
+    ],
     "🚢": [],
     "🚣": [],
     "🚤": [],
@@ -1379,9 +1395,13 @@
     "🚯": [],
     "🚰": [],
     "🚱": [],
-    "🚲": [],
+    "🚲": [
+        "https://digitaltmuseum.se/021016317723/kabinettfoto-enliogt-givarens-faster-den-forsta-cyklisten-i-bollnas-iford"
+    ],
     "🚳": [],
-    "🚴": [],
+    "🚴": [
+        "https://digitaltmuseum.se/021016317723/kabinettfoto-enliogt-givarens-faster-den-forsta-cyklisten-i-bollnas-iford"]
+    ,
     "🚵": [],
     "🚶": [],
     "🚷": [],
